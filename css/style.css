@@ -1,4 +1,10 @@
 #zone1 {
-	font-size: 11px;
 	background: url(http://www.motto.net.ua/pic/201403/1920x1200/motto.net.ua-72260.jpg);
+}
+
+.header {
+	width: 100%;
+	height: 60px;
+	background: white;
+	border-bottom: 3px solid gray;
 }
